@@ -17,7 +17,7 @@ A simple Java console application for booking train tickets. This project allows
 
 ## 🛠 Technologies Used
 
-- Java 17  
+- Java 21  
 - Jackson (for JSON parsing)  
 - File I/O (JSON-based data storage)  
 - Simple console-based UI (no external libraries required)
