@@ -28,18 +28,20 @@ A simple Java console application for booking train tickets. This project allows
 
 ```
 ticket-booking-system/
-├── app/
-│   └── src/
-│       └── main/
-│           └── java/
-│               └── ticket/booking/
-│                   ├── App.java
-│                   ├── entities/
-│                   ├── service/
-│                   └── util/
-├── localDb/
-│   ├── users.json
-│   └── trains.json
+└── app/
+    └── src/
+        └── main/
+            └── java/
+                └── ticket/
+                    └── booking/
+                        ├── App.java
+                        ├── entities/
+                        ├── service/
+                        ├── util/
+                        └── localDb/
+                            ├── users.json
+                            └── trains.json
+
 ```
 
 ---
