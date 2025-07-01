@@ -111,4 +111,4 @@ This is a personal learning project to improve my Java skills in:
 ## 📬 Contact
 
 Feel free to connect or leave feedback!  
-LinkedIn:  [Hasnain Ansari](www.linkedin.com/in/codzone)
+Email:  [Hasnain Ansari](codzone8832@gmail.com)
